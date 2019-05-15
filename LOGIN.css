@@ -1,6 +1,9 @@
- .body {
- 
- }
+body {
+    background: orange;
+    margin: 0%;
+    bacgound-attachment: 100vw 100vh;
+    padding: 110px 350px;
+     }
  .hk1 {
    margin: 40px 100px;
     width: 100%;

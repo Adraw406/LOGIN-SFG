@@ -12,7 +12,7 @@
                     <input type="password" placeholder="PASSWORD" maxlength="12" name="password" id="PASSWORD">
                 </nav>
                 <nav class="ki2"> 
-                        <label for=""></label>
+                        <label for="">INICIAR</label>
                         <input type="button" value="INICIAR">
                 </nav>
             </form>

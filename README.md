@@ -11,7 +11,7 @@
                     <label for="PASSWORD">password</label>
                     <input type="password" placeholder="PASSWORD" maxlength="12" name="password" id="PASSWORD">
     
-                </nav>
+       
                 </nav>
             </form>
         </body>

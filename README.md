@@ -1,5 +1,5 @@
 <html>
-    <link rel="stylesheet" hrf="LOGIN.css">  
+    <link rel="stylesheet" href="LOGIN.css">
     <head>
         <body>
             <form action="">

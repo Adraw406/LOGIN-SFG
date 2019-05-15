@@ -1,9 +1,5 @@
 <html>
-    Example Markup for HTML:
-<a href="http://google.com">google.com</a>
 
-Example Markup for BBCode:
-[url=http://google.com]google.com[/url]
     <link rel="stylesheet" href="LOGIN.css">
     <head>
         <body>

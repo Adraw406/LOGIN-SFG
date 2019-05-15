@@ -6,7 +6,7 @@ body {
      }
 form {
     background: rgb(43, 180, 1);
-    
+    border-radius:10px;
 }
  .ki1{
    margin: 40px 100px;

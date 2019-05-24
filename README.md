@@ -1,22 +1,26 @@
 <html>
-
-    <link rel="stylesheet" href="LOGIN.css">
-    <head>
-        <body>
-            <form action="">
-                <nav class="ki1">
-<label for="NOMBRE DE USUARIO">NOMBRE DE USUARIO</label>
-<input type="text" placeholder="NOMBRE DE USUARIO" maxlength="20" name="NOMBRE DE USUARIO" id="NOMBRE DE USUARIO">
-                </nav>
-                <nav class="hi2">
-                    <label for="PASSWORD">PASSWORD</label>
-                    <input type="password" placeholder="PASSWORD" maxlength="12" name="password" id="PASSWORD">
-                </nav>
-                <nav class="ki2"> 
-                        <label for="">INICIAR</label>
-                        <input type="button" value="INICIAR">
-                </nav>
-            </form>
-        </body>
-    </head>
-</html>
+<head>
+<meta charset="UTF-8">
+<meta lang="es">
+<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+<link rel=" shorcut icon " type=" image/x-icon " href="sfglogo.ico">
+<img src="sfglog.jpg" alt="IMGEN SFG" title="IMAGEN SFG"/>
+<link rel="stylesheet" href="css/RI.css">
+     <nav class="d34">
+<h1>Login<h1> 
+<head>
+</nav>
+<body>
+<div class="t78">
+ <form action="INICIARSECION.php" methotd="post">
+     
+ <input type="text" name="email" placeholder="Enter your mail" maxlength="50">
+ <input type="Password" name="Password" placeholder="PASSWORD" maxlength="20"  >
+ <input type="submit" value="Send">
+</div>
+<nav class="t79">
+<span><a href="https://adraw406.github.io/Register/">Singup</a></span>
+</nav>
+  </body>
+ </html>
+ 

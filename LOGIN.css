@@ -14,7 +14,8 @@ input[type="text"], input[type="password"], input[type="Password"] {
     margin: 20px auto;
     padding: 10px;
 }
-input[type="submit"] {
+input[type="submit"] 
+{
     padding: 10px;
     background:  rgb(255, 145, 0);
     width: 300px;
@@ -34,8 +35,8 @@ input[type="submit"] :hover {
 }
 .t78 {
     background: rgb(209, 0, 0);
-    padding: 30px;
-    width: 350px;
+    padding: 300px;
+    width: 450px;
     margin: -5px 500px;
     border-radius: 4px;
 }
@@ -54,7 +55,6 @@ input[type="submit"] :hover {
         height: 80px ;
         border-radius: 10px;
         margin:center ;
-
         }
         .b34 {
             font-size: 150%;

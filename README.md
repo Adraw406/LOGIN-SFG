@@ -13,11 +13,9 @@
           <input type="password" name="password" placeholder="Enter your password" maxlength="50">
          <input type="text" name="SFG" placeholder="Enter your id SFG " maxlength="50">
          <input type="submit" value="Send">
-         <h2>>
               <a href="https://adraw406.github.io/Register/">
-                   Sign up 
+                   <h2>Sign up</h2>
               </a>
-         </h2>
      </div>
   </body>
  </html>

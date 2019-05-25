@@ -8,17 +8,6 @@
 <link rel="stylesheet" href="LOGIN.css">
      </head>
 <body>
-         <nav class="d34">
-<h1>Login<h1> 
-</nav>
-<div class="t78">
- <form action="INICIARSECION.php" methotd="post"></form>
- <input type="text" name="email" placeholder="Enter your mail" maxlength="50">
- <input type="Password" name="Password" placeholder="PASSWORD" maxlength="20"  >
- <input type="submit" value="Send">
-</div>
-<nav class="t79">
-<span><a href="REGISTRARSE.php">Singup</a></span>
-</nav>
+     <h1>LOGIN</h1>
   </body>
  </html>

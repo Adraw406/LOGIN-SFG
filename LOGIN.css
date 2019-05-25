@@ -49,6 +49,7 @@ h1 {
 }
 h2
 {
-    background:rgb(238, 203, 5);
+    text-decoration: none;
+    background:rgb(255, 145, 0);
     color: white;
 }

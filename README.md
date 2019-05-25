@@ -13,10 +13,10 @@
           <input type="password" name="password" placeholder="Enter your password" maxlength="50">
          <input type="text" name="SFG" placeholder="Enter your id SFG " maxlength="50">
          <input type="submit" value="Send">
-     </div>
-     <nav class="t79">
-<span><a href="REGISTRARSE.php">Singup</a></span>
+         <nav class="t79">
+          <a href="REGISTRARSE.php">Singup</a>
 </nav>
+     </div>
   </body>
  </html>
  

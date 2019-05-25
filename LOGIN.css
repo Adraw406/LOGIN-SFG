@@ -9,11 +9,11 @@ input[type="text"], input[type="password"], input[type="text"]
 {
     outline: none;
     display: block;
-    width: 590px ;
+    width: 540px ;
     border-radius: 3px;
     border: 1px solid rgba(238, 238, 238, 0.726);
     margin: 28px auto;
-    padding: 30px;
+    padding: 26px;
 }
 input[type="submit"] 
 {

@@ -13,9 +13,7 @@
           <input type="password" name="password" placeholder="Enter your password" maxlength="50">
          <input type="text" name="SFG" placeholder="Enter your id SFG " maxlength="50">
          <input type="submit" value="Send">
-        
           <a href="REGISTRARSE.php">Singup</a>
-
      </div>
   </body>
  </html>

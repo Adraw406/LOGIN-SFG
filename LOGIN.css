@@ -9,7 +9,7 @@ input[type="text"], input[type="password"], input[type="text"]
 {
     outline: none;
     display: block;
-    width: 440px ;
+    width: 340px ;
     border-radius: 3px;
     border: 1px solid rgba(238, 238, 238, 0.726);
     margin: 28px auto;
@@ -33,9 +33,9 @@ input[type="submit"] :hover {
  .t78
 {
     background: rgb(209, 0, 0);
- width:580;
-    height:550px
-    padding:450px;
+ width:480;
+    height:450px
+    padding:350px;
     border-radius: 4px;
 }
 h1 { 

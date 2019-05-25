@@ -31,11 +31,7 @@ input[type="submit"] :hover {
 }
 .t78 
 {
-     background: rgb(209, 0, 0);
-    padding:80px;
-    width: 490px;
-    margin:20px;
-    border-radius:4px;
+     color:white;
 }
 h1 { 
              color:white;

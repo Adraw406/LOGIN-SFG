@@ -9,18 +9,18 @@ input[type="text"], input[type="password"], input[type="text"]
 {
     outline: none;
     display: block;
-    width: 350px ;
+    width: 390px ;
     border-radius: 3px;
     border: 1px solid rgba(238, 238, 238, 0.726);
-    margin: 28px auto;
+    margin: 30px auto;
     padding: 15px;
 }
 input[type="submit"] 
 {
-    padding: 12px;
+    padding: 15px;
     background:  rgb(255, 145, 0);
-    width: 320px;
-    margin: 20px auto;
+    width: 330px;
+    margin: 23px auto;
     margin-top: 0;
     border: 0;
     border-radius: 3px;
@@ -33,7 +33,7 @@ input[type="submit"] :hover {
 {
      background: rgb(209, 0, 0);
     padding:80px;
-    width: 490px;
+    width: 590px;
     margin:20px;
     border-radius:4px;
 }

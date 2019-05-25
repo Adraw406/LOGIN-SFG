@@ -11,6 +11,7 @@
      <h1>LOGIN</h1>
      <div class="t78">
           <input type="text" name="email" placeholder="Enter your email" maxlength="50">
+          <input type="password" name="password" placeholder="Enter password" maxlength="50">
   </body>
  </html>
  

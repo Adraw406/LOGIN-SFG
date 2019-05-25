@@ -33,9 +33,9 @@ input[type="submit"] :hover {
  .t78
 {
     background: rgb(209, 0, 0);
-    padding: 80px;
-    width: 350px;
-    margin: -5px 500px;
+ width:35%;
+    height:35%;
+    padding:35%;
     border-radius: 4px;
 }
 h1 { 

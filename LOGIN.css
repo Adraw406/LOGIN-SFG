@@ -12,7 +12,7 @@ input[type="text"], input[type="password"], input[type="text"]
     width: 390px ;
     border-radius: 3px;
     border: 1px solid rgba(238, 238, 238, 0.726);
-    margin: 30px auto;
+    margin: 28px auto;
     padding: 15px;
 }
 input[type="submit"] 

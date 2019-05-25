@@ -14,7 +14,7 @@
          <input type="text" name="SFG" placeholder="Enter your id SFG " maxlength="50">
          <input type="submit" value="Send">
          <h2>>
-              <a href="REGISTRARSE.php">Singup</a>
+              <a href=""> Singup </a>
          </h2>
      </div>
   </body>

@@ -34,4 +34,5 @@ input[type="submit"] :hover {
      background: rgb(209, 0, 0);
     padding:80px;
     width: 350px;
+    margin:0;
 }

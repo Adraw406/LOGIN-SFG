@@ -19,7 +19,7 @@ input[type="submit"]
 {
     padding: 15px;
     background:  rgb(255, 145, 0);
-    width: 330px;
+    width: 80px;
     margin: 23px auto;
     margin-top: 0;
     border: 0;
@@ -33,9 +33,9 @@ input[type="submit"] :hover {
  .t78
 {
     background: rgb(209, 0, 0);
- width:300px;
-    height:400px
-    padding:400px;
+ width:450;
+    height:500px
+    padding:450px;
     border-radius: 4px;
 }
 h1 { 

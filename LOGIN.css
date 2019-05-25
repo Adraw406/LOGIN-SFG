@@ -29,9 +29,14 @@ input[type="submit"]
 input[type="submit"] :hover {
     background-color: rgb(255, 0, 0);
 }
-.t78 
+
+ .t78
 {
-     color:white;
+    background: rgb(209, 0, 0);
+    padding: 80px;
+    width: 350px;
+    margin: -5px 500px;
+    border-radius: 4px;
 }
 h1 { 
              color:white;
@@ -44,11 +49,5 @@ h1 {
 }
 .t79 
 {
-    text-decoration: none;
-    background-color: rgb(255, 145, 0);
-    padding: 10px;
-    margin:0px 510px;
-    border-radius: 3px;
     color: white;
-    cursor: pointer;
 }

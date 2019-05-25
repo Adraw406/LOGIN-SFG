@@ -7,10 +7,10 @@
 <img src="sfglog.jpg" alt="IMGEN SFG" title="IMAGEN SFG"/>
 <link rel="stylesheet" href="LOGIN.css">
      </head>
-     <nav class="d34">
+<body>
+         <nav class="d34">
 <h1>Login<h1> 
 </nav>
-<body>
 <div class="t78">
  <form action="INICIARSECION.php" methotd="post"></form>
  <input type="text" name="email" placeholder="Enter your mail" maxlength="50">

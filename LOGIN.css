@@ -25,6 +25,7 @@ input[type="submit"]
     border: 0;
     border-radius: 3px;
     cursor: pointer;
+    color:white;
 }
 input[type="submit"] :hover {
     background-color: rgb(255, 0, 0);

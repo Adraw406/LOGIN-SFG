@@ -14,6 +14,9 @@
          <input type="text" name="SFG" placeholder="Enter your id SFG " maxlength="50">
          <input type="submit" value="Send">
      </div>
+     <nav class="t79">
+<span><a href="REGISTRARSE.php">Singup</a></span>
+</nav>
   </body>
  </html>
  

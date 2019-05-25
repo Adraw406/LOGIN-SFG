@@ -9,11 +9,11 @@ input[type="text"], input[type="password"], input[type="text"]
 {
     outline: none;
     display: block;
-    width: 340px ;
+    width: 240px ;
     border-radius: 3px;
     border: 1px solid rgba(238, 238, 238, 0.726);
-    margin: 28px auto;
-    padding: 26px;
+    margin: 25px auto;
+    padding: 20px;
 }
 input[type="submit"] 
 {
@@ -27,16 +27,17 @@ input[type="submit"]
     cursor: pointer;
     color:white;
 }
-input[type="submit"] :hover {
+input[type="submit"] :hover
+{
     background-color: rgb(255, 0, 0);
 }
 
  .t78
 {
     background: rgb(209, 0, 0);
- width:480;
-    height:450px
-    padding:350px;
+ width:380;
+    height:350px
+    padding:250px;
     border-radius: 4px;
 }
 h1 { 

@@ -9,7 +9,7 @@ input[type="text"], input[type="password"], input[type="text"]
 {
     outline: none;
     display: block;
-    width: 199px ;
+    width: 309px ;
     border-radius: 3px;
     border: 1px solid rgba(238, 238, 238, 0.726);
     margin: 20px auto;

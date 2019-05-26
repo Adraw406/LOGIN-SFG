@@ -1,17 +1,9 @@
 <html>
      <meta charset="UTF-8">
 <meta lang="es">
-<img src="sfglog.jpg" alt="IMGEN SFG" title="IMAGEN SFG"/>
     <link rel=" shorcut icon " type=" image/x-icon " href="sfglogo.ico">
 <link rel="stylesheet" href="LOGIN.css">
 <head>
-     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-3949775412729271",
-          enable_page_level_ads: true
-     });
-</script>
      </head>
 <body>
      <h1>LOGIN</h1>

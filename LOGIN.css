@@ -50,4 +50,5 @@ h2
     background:rgb(255, 145, 0);
     color: white;
     width: 35px 60px;
+    border-radius:3px;
 }

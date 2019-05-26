@@ -8,7 +8,7 @@
 <body>
      <h1>LOGIN</h1>
     <div class="t78">
-          <input type="text" name="email" placeholder="Enter your email" maxlength="50" required>
+          <input type="email" name="email" placeholder="Enter your email" maxlength="50" required>
           <input type="password" name="password" placeholder="Enter your password" maxlength="50" required>
          <input type="text" name="SFG" placeholder="Enter your id SFG " maxlength="50" required>
          <input type="submit" value="Send" required>

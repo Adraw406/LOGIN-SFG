@@ -9,10 +9,10 @@ input[type="text"], input[type="password"], input[type="text"]
 {
     outline: none;
     display: block;
-    width: 230px ;
+    width: 199px ;
     border-radius: 3px;
     border: 1px solid rgba(238, 238, 238, 0.726);
-    margin: 22px auto;
+    margin: 20px auto;
     padding: 20px;
 }
 input[type="submit"] 
@@ -37,7 +37,7 @@ input[type="submit"] :hover
     background: rgb(209, 0, 0);
     padding: 30px;
    width: 380px;
-   margin: -5px 350px;
+   margin: -5px 340px;
    border-radius: 4px; 
 }
 h1 { 

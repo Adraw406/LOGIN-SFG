@@ -36,8 +36,8 @@ input[type="submit"] :hover
 {
     background: rgb(209, 0, 0);
     padding: 30px;
-   width: 380px;
-   margin: -5px 340px;
+   width: 390px;
+   margin: -5px center;
    border-radius: 4px; 
 }
 h1 { 
